@@ -1,0 +1,8 @@
+jupyter
+numpy==1.22.0
+seaborn==0.12.1
+matplotlib==3.2.2
+scipy==1.9.3
+pandas==1.5.1
+sympy==1.11.1
+nose==1.3.7
